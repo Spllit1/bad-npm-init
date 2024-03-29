@@ -1,0 +1,14 @@
+C:\Users\felix\Desktop\c#\bad-npm-init\bin\Debug\net8.0\bad-npm-init.exe
+C:\Users\felix\Desktop\c#\bad-npm-init\bin\Debug\net8.0\bad-npm-init.deps.json
+C:\Users\felix\Desktop\c#\bad-npm-init\bin\Debug\net8.0\bad-npm-init.runtimeconfig.json
+C:\Users\felix\Desktop\c#\bad-npm-init\bin\Debug\net8.0\bad-npm-init.dll
+C:\Users\felix\Desktop\c#\bad-npm-init\bin\Debug\net8.0\bad-npm-init.pdb
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.AssemblyInfoInputs.cache
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.AssemblyInfo.cs
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.dll
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\refint\bad-npm-init.dll
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.pdb
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\bad-npm-init.genruntimeconfig.cache
+C:\Users\felix\Desktop\c#\bad-npm-init\obj\Debug\net8.0\ref\bad-npm-init.dll
