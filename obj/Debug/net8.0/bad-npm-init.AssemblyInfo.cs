@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bad-npm-init")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58d10e94d4c6e9cc8cc8fe76b5f20b43f3eaf941")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30c0f9b5755d5c41caa68c4739fbe0d1a1d73b62")]
 [assembly: System.Reflection.AssemblyProductAttribute("bad-npm-init")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bad-npm-init")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
